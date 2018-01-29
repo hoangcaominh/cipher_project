@@ -30,3 +30,9 @@ Program type;
 
 How to run the program:
 Just double-click the program you want to run, there will be instructions in the console window.
+
+Built with: Dev-C++ (because my computer can't handle Visual Studio).
+
+Contributors: Hoang Cao Minh.
+
+Version: Check each program's properties.
